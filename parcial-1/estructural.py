@@ -7,5 +7,11 @@ def suma_lista(lista):
         resultado = resultado + i
     if resultado > 100:
         return 'mayor'
-    else
+    else: #añadido un ":" faltante
         return 'menor'
+
+suma_lista([2, 4, 6, 8, 10])
+#Prueba de la función con una lista de números
+
+print(suma_lista([2, 4, 6, 8, 10]))
+#Prueba de impresión de la función

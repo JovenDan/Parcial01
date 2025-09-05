@@ -39,3 +39,8 @@
 ---
 
 ¡Éxito en el examen!
+
+## Resultados
+
+- **Estudiante**: Danilo José Cantor Muñoz
+- **Parcial número**: 1
