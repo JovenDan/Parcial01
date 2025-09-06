@@ -59,7 +59,7 @@ def suma_lista(lista):
         return 'menor'
 ```
 
-En el archivo "oop.py" se añadieron las lineas "self.nombre = nombre" y "self.salario = salario" a la clase "class Empleado(Persona)" debido a que en el __init__ se recogen los atributos (self, nombre, edad, salario), pero solo se almacenaba el atributo salario
+En el archivo "oop.py" se añadieron las lineas "self.nombre = nombre" y "self.edad = edad" a la clase "class Empleado(Persona)" debido a que en el __init__ se recogen los atributos (self, nombre, edad, salario), pero solo se almacenaba el atributo salario
 
 así quedó:
 ```
