@@ -45,4 +45,16 @@
 - **Estudiante**: Danilo José Cantor Muñoz
 - **Parcial número**: 1
 
-// G
+En el archivo "estructural.py" se añadió un ":" en la línea 10 en frente de "else" para que la sintáxis de la sentencia "if else" funcione correctamente
+
+así quedó:
+´´´
+def suma_lista(lista):
+    resultado = 0
+    for i in lista:
+        resultado = resultado + i
+    if resultado > 100:
+        return 'mayor'
+    else:
+        return 'menor'
+´´´
