@@ -48,7 +48,7 @@
 En el archivo "estructural.py" se añadió un ":" en la línea 10 en frente de "else" para que la sintáxis de la sentencia "if else" funcione correctamente
 
 así quedó:
-'''
+```
 def suma_lista(lista):
     resultado = 0
     for i in lista:
@@ -57,4 +57,4 @@ def suma_lista(lista):
         return 'mayor'
     else:
         return 'menor'
-'''
+```
